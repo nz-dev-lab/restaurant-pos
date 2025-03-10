@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "Full Grilled Chicken Meal",
+    "description": "Juicy full grilled chicken served with basmati rice and a side of salad and dips.",
+    "price": 10.99,
+    "category": "Grilled Chicken",
+    "type": "Meal",
+    "imageUrl": "https://example.com/images/full-grilled-chicken.jpg",
+    "availability": true,
+    "customizations": {
+      "Rice Portion": ["Regular", "Large"],
+      "Dips": ["Garlic Sauce", "Chili Sauce", "Yogurt Sauce"]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Half Grilled Chicken Meal",
+    "description": "Succulent half grilled chicken served with basmati rice and a side of salad and dips.",
+    "price": 6.99,
+    "category": "Grilled Chicken",
+    "type": "Meal",
+    "imageUrl": "https://example.com/images/half-grilled-chicken.jpg",
+    "availability": true,
+    "customizations": {
+      "Rice Portion": ["Regular", "Large"],
+      "Dips": ["Garlic Sauce", "Chili Sauce", "Yogurt Sauce"]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Chicken Mandi",
+    "description": "Traditional rice dish with tender grilled chicken served with flavorful mandi rice.",
+    "price": 8.99,
+    "category": "Mandi",
+    "type": "Meal",
+    "imageUrl": "https://example.com/images/chicken-mandi.jpg",
+    "availability": true,
+    "customizations": {
+      "Rice Portion": ["Regular", "Large"]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Lamb Mandi",
+    "description": "Savory lamb pieces served with aromatic mandi rice.",
+    "price": 12.99,
+    "category": "Mandi",
+    "type": "Meal",
+    "imageUrl": "https://example.com/images/lamb-mandi.jpg",
+    "availability": true,
+    "customizations": {
+      "Rice Portion": ["Regular", "Large"]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Regular Mandi Rice",
+    "description": "Delicious basmati rice infused with spices and flavors.",
+    "price": 2.50,
+    "category": "Mandi",
+    "type": "Rice",
+    "imageUrl": "https://example.com/images/regular-mandi-rice.jpg",
+    "availability": true,
+    "customizations": {}
+  },
+  {
+    "id": 6,
+    "name": "Large Mandi Rice",
+    "description": "Larger portion of aromatic mandi rice, perfect for sharing.",
+    "price": 3.50,
+    "category": "Mandi",
+    "type": "Rice",
+    "imageUrl": "https://example.com/images/large-mandi-rice.jpg",
+    "availability": true,
+    "customizations": {}
+  },
+  {
+    "id": 7,
+    "name": "Falafel Plate",
+    "description": "Crispy falafel served with hummus, pita bread, and salad.",
+    "price": 5.99,
+    "category": "Vegetarian",
+    "type": "Plate",
+    "imageUrl": "https://example.com/images/falafel-plate.jpg",
+    "availability": true,
+    "customizations": {
+      "Dips": ["Tahini Sauce", "Garlic Sauce", "Chili Sauce"]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Hummus with Pita",
+    "description": "Classic hummus served with soft pita bread.",
+    "price": 4.50,
+    "category": "Vegetarian",
+    "type": "Starter",
+    "imageUrl": "https://example.com/images/hummus-pita.jpg",
+    "availability": true,
+    "customizations": {
+      "Pita Size": ["Regular", "Large"]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Regular Mandi Rice",
+    "description": "Delicious basmati rice infused with spices and flavors.",
+    "price": 2.50,
+    "category": "Mandi",
+    "type": "Rice",
+    "imageUrl": "https://example.com/images/regular-mandi-rice.jpg",
+    "availability": true,
+    "customizations": {}
+  }
+  
+]
