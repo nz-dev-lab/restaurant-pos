@@ -1,5 +1,5 @@
 import { legacy_createStore as createStore, combineReducers } from "redux";
-import { composeWithDevTools } from "redux-devtools-extension"; // Import composeWithDevTools
+// import { composeWithDevTools } from "redux-devtools-extension"; // Import composeWithDevTools
 import orderReducer from "./reducers/orderReducer";
 
 const rootReducer = combineReducers({
@@ -8,7 +8,7 @@ const rootReducer = combineReducers({
 
 const store = createStore(
   rootReducer,
-  composeWithDevTools() // Use composeWithDevTools here
+  // composeWithDevTools() // Use composeWithDevTools here
 );
 
 export default store;
